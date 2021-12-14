@@ -14,5 +14,7 @@ print("The last item in the list (state): " + my_list[2] )
 
 iplist = [5060, "80", 55, "10.0.0.1", "10.20.30.1", "ssh"]
 
+#need to add more notes
 print("IP address " + iplist[3] + " and " + iplist[4])
+#add notes here also like what is f doing
 print(f"IP address: {iplist[3]} and {iplist[4]}")
